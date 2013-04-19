@@ -1,3 +1,8 @@
+#Ruby on Rails Tutorial: sample application
+This is the cample application for ROR Tutorial
+4/19/2013 - Vinny Gebhart
+
+
 == Welcome to Rails
 
 Rails is a web-application framework that includes everything needed to create
